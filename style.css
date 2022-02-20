@@ -1,0 +1,46 @@
+* {
+    color: rgb(76, 159, 236);
+}
+h1 {
+    color: rgb(52, 173, 99);
+    text-align: center;
+    background-color: antiquewhite;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h2{
+    color: rgb(129, 218, 163);
+    text-align: center;
+    background-color: rgb(241, 233, 223);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.allimages {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+    color: brown;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-stretch: expanded;
+    text-decoration: none;
+}
+
+a:visited {
+    color: brown;
+}
+
+a:hover {
+    color: rgb(231, 127, 127);
+}
+
+.rectit {
+    text-align: center;
+}
+.recipeimg {
+    height: auto;
+    width: 550px;
+}
